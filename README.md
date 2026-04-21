@@ -24,7 +24,7 @@ Currently building real-world projects using **Power BI, DAX, SQL, and Excel**.
 
 ## 📌 Featured Project
 
-### 🎬 [Netflix Data Analysis Dashboard](https://github.com/yourusername/Netflix-Data-Analysis-PowerBI)
+### 🎬 [Netflix Data Analysis Dashboard][(https://github.com/yourusername/Netflix-Data-Analysis-PowerBI)](https://github.com/roswinvarghese19-afk/Netflix-power-BI)
 
 * 📊 Built an interactive dashboard analyzing Netflix content
 * 🧠 Created KPIs for Movies, TV Shows, and Total Titles
@@ -56,8 +56,8 @@ To become a skilled **Data Analyst** and contribute to data-driven decision-maki
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/yourname
-* 📧 Email: [yourname@email.com](mailto:yourname@email.com)
+* 💼 LinkedIn:(https://www.linkedin.com/in/roswin-varghese-95a9a31a3/)
+* 📧 Email: roswinvarghese19@gmail.com
 
 ---
 
